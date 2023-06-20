@@ -2,6 +2,9 @@ Saison:
 Gepflückte Erdbeeren haben Saison von Ende April bis Mitte Juli
 Selberpflücken auf dem Erdbeerfeld: Ende Mai bis Anfang Juli
 
+Art:
+Frucht
+
 Rezept für einen Erdbeerkuchen mit Vanillecreme:
 
 Arbeitszeit	30 Min.
