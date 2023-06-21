@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 Testversuch 2
+=======
+>>>>>>> parent of d11d81e (Die angepasste Test.txt wurde hinzugefügt)
+=======
+Testversuch 2
+>>>>>>> d2a1b7a124cfa1e51a07f95dec97e95977ff3302
